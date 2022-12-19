@@ -1,0 +1,23 @@
+.container{
+    margin: 5px;
+    
+}
+
+
+
+li{
+    padding: 5px;
+}
+
+.post{
+    margin: 5px 5px;
+}
+
+.form{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#image{
+    max-height: 500px;
+}
